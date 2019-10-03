@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a20274bf.chunk.css",
+    "main.js": "/static/js/main.8dbb5f52.chunk.js",
+    "main.js.map": "/static/js/main.8dbb5f52.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.cd92dc39.js",
+    "runtime~main.js.map": "/static/js/runtime~main.cd92dc39.js.map",
+    "static/css/2.44053429.chunk.css": "/static/css/2.44053429.chunk.css",
+    "static/js/2.e7138edf.chunk.js": "/static/js/2.e7138edf.chunk.js",
+    "static/js/2.e7138edf.chunk.js.map": "/static/js/2.e7138edf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.45ffe7831fe02dce5473996026a67ec4.js": "/precache-manifest.45ffe7831fe02dce5473996026a67ec4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.44053429.chunk.css.map": "/static/css/2.44053429.chunk.css.map",
+    "static/css/main.a20274bf.chunk.css.map": "/static/css/main.a20274bf.chunk.css.map",
+    "static/media/drink-2.jpg": "/static/media/drink-2.c4d4bcd1.jpg",
+    "static/media/drink-3.jpg": "/static/media/drink-3.4b29c42c.jpg",
+    "static/media/drink-4.jpg": "/static/media/drink-4.572c29a3.jpg"
+  }
+}
