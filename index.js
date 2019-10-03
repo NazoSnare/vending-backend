@@ -82,7 +82,7 @@ wss.on('connection', function connection(ws) {
 
 app.use(express.static(path.join(__dirname,'/public')));
 
-app.listen(7000,()=>{
+app.listen(80,()=>{
   console.log('static server started on http://localhost:7000');
 });
 
